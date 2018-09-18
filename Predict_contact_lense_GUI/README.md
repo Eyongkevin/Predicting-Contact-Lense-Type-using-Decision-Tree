@@ -39,3 +39,7 @@ For this section, we will need only one file, `lense_predictor.pyw`. This file h
 The GUI looks like this:
 
 ![title](Images/ClassifierPredict.png)
+
+### 2.3: How to run it
+- you  can either double click on `lense_predictor.pyw` directly or use a command line with the command: `python lense_predictor.pyw`
+- From the GUI, select from the different options and press the `predict` button to see the prediction result
