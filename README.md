@@ -33,9 +33,12 @@ Intergrate the decision tree algorithm into a GUI
 GUI is easy to use and attractive in the eyes.
 
 ## 5. Poject Requirements
-To complete this project, you will need a computer. The required packages and libraries can be found in the requirement.txt fiel. You could install all dependencies from the file with pip as: 
-
-`pip install -r requirements.txt`
+To complete this project, you will need a computer. The required packages and libraries are:
+- log from math
+- operator
+- namedtuple from collections
+- pickle
+- matplotlib
 
 ## 6. Files structure
 brief files structure
